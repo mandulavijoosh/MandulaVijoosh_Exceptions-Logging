@@ -1,0 +1,9 @@
+2020-07-07 17:16:00 INFO  SIandCI:12 - Enter principleamount
+2020-07-07 17:16:07 INFO  SIandCI:14 - Enter timeperiod
+2020-07-07 17:16:09 INFO  SIandCI:16 - enter rate of interest
+2020-07-07 17:16:14 INFO  SIandCI:24 - simple interest : 140.0
+2020-07-07 17:16:14 INFO  SIandCI:30 - compound interest : 140.0
+2020-07-07 17:16:39 INFO  CostOfConstruction:11 - Select your choice
+2020-07-07 17:16:39 INFO  CostOfConstruction:12 - 1.standard materials  2.Above standard materials  3.High standard materials  4.High standard and fully Automated home
+2020-07-07 17:16:46 INFO  Constructioncost:12 - Enter area of plot in square meters
+2020-07-07 17:16:49 INFO  Constructioncost:28 - ConstructionCost : 375000INR
